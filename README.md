@@ -10,6 +10,11 @@ This data science project series walks through step by step process of how to bu
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
 
+# Python code
+
+Please refer the following link for for the python:
+[House_Price_Prediction_Project.ipynb](https://github.com/NiharMajalikar/Price-predictor-model-for-homes-in-bangalore/blob/main/House_Price_Prediction_Project.ipynb)
+
 # Deploy this app to cloud (AWS EC2)
 
 1. Create EC2 instance using amazon console, also in security group add a rule to allow HTTP incoming traffic
